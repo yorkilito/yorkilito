@@ -1,7 +1,9 @@
 # Hi there! I'm Samuel 👋
 
 ## My Coding Journey 🚀
-I've learned a lot of different programming languages. I started with C in my first year at Uni. Having your whole program not compile because of one semi-colon used to make me want to pull my hair out sometimes not going to lie. But, I started to appreciate how much power and control it gives you in typesetting and memory management. Then I moved on to Python. I created a few games with it using the Pygame library. It was pretty cool. I then dabbled in a few other languages like HTML, CSS Haskell, etc. I really loved how Haskell could let you do powerful operations with just a few lines of code. Towards my final two years of university, I fell in love with two programming languages: Java and PHP.
+I've learned a lot of different programming languages. I started with C in my first year at Uni. Having your whole program not compile because of one semi-colon used to make me want to pull my hair out sometimes not going to lie. But, I started to appreciate how much power and control it gives you in typesetting and memory management. Then I moved on to Python. I created a few games with it using the Pygame library. It was pretty cool. 
+
+I then dabbled in a few other languages like HTML, CSS Haskell, etc. I really loved how Haskell could let you do powerful operations with just a few lines of code. Towards my final two years of university, I fell in love with two programming languages: Java and PHP.
 
 Coding with Java using OOP just made so much sense to me! I think the best way to solve problems is by breaking them down into smaller ones. And OOP helps you conceptualize your program and separate them into objects. 
 
